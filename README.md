@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi, I'm 🌟 Chau 🌟
 
+Welcome to my digital playground! 
+Feel free to browse 😊
+I'm always looking for new hobbies and challenges to expand my skillset.
+
+👩‍🎓 I'm a University of Georgia alumni with a BBA in Marketing and International Business.<br/>
+💭 Currently, I'm working on improving my front-end development skills!<br/>
+💻 Take a look at my [portfolio](https://chauhtluu.github.io/)!<br/>
+💡 Check back here often to see my progress!<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chauhtluu&show_icons=true&theme=tokyonight)
 <!--
 **chauhtluu/chauhtluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
